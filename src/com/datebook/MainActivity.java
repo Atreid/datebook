@@ -7,6 +7,7 @@ import android.view.Menu;
 import android.widget.TabHost;
 
 //@SuppressWarnings("deprecation")
+@SuppressWarnings("deprecation")
 public class MainActivity extends TabActivity {
 
     @Override
